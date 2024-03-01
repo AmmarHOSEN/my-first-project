@@ -121,5 +121,8 @@ main{
 .about-info{
     text-align: center;
 }
+#what-i-do-description{
+    padding: 15px 150px;
+}
 
 /* nav related styles start */
