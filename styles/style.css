@@ -76,6 +76,37 @@ nav a{
     margin-bottom: 20px;
 
 }
+.btn-secondary{
+    border-radius: 5px;
+    background-color:#ffffff;
+    color: #fd6e0a;
+    font-size: 20px;
+    font-weight: 700;
+    border: 2px solid #fd6e0a;
+    padding: 15px 35px;
+}
+.about{
+    padding: 130px;
+
+    border-radius: 10px;
+
+    background-color: #fff8f3;
+    margin: 130px 0;
+
+}
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    text-align: center;
+
+}
+.section-description{
+    text-align: center;
+    font-size: 18px;
+    color: #757575;
+
+}
 
 
 /* nav related styles start */
