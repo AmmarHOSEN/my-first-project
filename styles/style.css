@@ -3,7 +3,7 @@
 
 .header{
     background-color: #fff8f3;
-    background-image: url('../portfolio-resources-main/images/header_bg.png');
+    background-image: url('images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -135,6 +135,17 @@ main{
 }
 #what-i-do-description{
     padding: 15px 150px;
+}
+.skill-container{
+    display: flex;
+
+}
+.skill-info{
+    padding: 30px;
+    gap: 24px;
+    text-align: center;
+    
+
 }
 
 /* nav related styles start */
