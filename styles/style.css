@@ -1,0 +1,45 @@
+/* nav related styles start */
+
+  
+nav{
+    display: flex;
+}
+body{
+    font-family: "Open Sans";
+    
+}
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+.text-primary{
+    color: #fd6e0a;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    
+    
+
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color:#fd6e0a;
+}
+
+
+
+
+
+/* nav related styles start */
