@@ -86,12 +86,13 @@ nav a{
     padding: 15px 35px;
 }
 .about{
+    
     padding: 130px;
 
     border-radius: 10px;
 
     background-color: #fff8f3;
-    margin: 130px 0;
+    margin: 130px;
 
 }
 .section-title{
@@ -107,6 +108,18 @@ nav a{
     color: #757575;
 
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
 
+    
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
 
 /* nav related styles start */
