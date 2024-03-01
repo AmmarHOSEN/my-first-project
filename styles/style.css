@@ -112,6 +112,7 @@ nav a{
     font-weight: 700;
     color: #181818;
     text-align: center;
+    padding-top: 30px;
 
 }
 .section-description{
@@ -134,7 +135,8 @@ main{
     text-align: center;
 }
 #what-i-do-description{
-    padding: 15px 150px;
+    padding: 10px 150px;
+    
 }
 .skill-container{
     display: flex;
@@ -145,7 +147,10 @@ main{
     gap: 24px;
     text-align: center;
     
+    
 
 }
-
+.what-i-do-container{
+    background-color: beige;
+}
 /* nav related styles start */
