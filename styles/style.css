@@ -43,6 +43,10 @@ nav a{
     text-decoration: none;
     color: #474747;
 }
+nav li a:hover{
+    color: #fd6e0a;
+    transition: .3s;
+}
 .btn-primary{
     border-radius: 5px;
     background-color:#fd6e0a;
@@ -54,6 +58,12 @@ nav a{
     margin-right: 15px;
     cursor: pointer;
     
+
+}
+.btn-primary:hover{
+    background-color: #ffffff;
+    border: 2px solid #fd6e0a;
+    color: #474747;
 
 }
 
@@ -140,7 +150,7 @@ main{
 }
 .skill-container{
     display: flex;
-
+    
 }
 .skill-info{
     padding: 30px;
@@ -152,5 +162,6 @@ main{
 }
 .what-i-do-container{
     background-color: beige;
+    max-width: 1140px;
 }
 /* nav related styles start */
