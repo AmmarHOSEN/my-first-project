@@ -3,6 +3,9 @@
 
 .header{
     background-color: #fff8f3;
+    background-image: url('../portfolio-resources-main/images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 nav{
     display: flex;
@@ -51,13 +54,28 @@ nav a{
 
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 200px;
+    display: flex;
+    align-items: center;
+
 }
-.banner-images{
+.banner .banner-images{
     width: 500px;
+}
+.banner-greetings{
+    font-size: 45px;
+    margin-bottom: 0;
+    color:#474747;
+    
 
 }
+.banner-title{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
 
+}
 
 
 /* nav related styles start */
